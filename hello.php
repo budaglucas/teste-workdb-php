@@ -44,7 +44,7 @@
 		</tbody>
 	    </table>
         <div class="text-right">
-        <a class="btn btn-primary" href="http://localhost:8080/teste/index.php" role="button">Lista de Usuários</a>
+        <a class="btn btn-primary" href="http://localhost:8080/teste-workdb-php/index.php" role="button">Lista de Usuários</a>
         </div>
 	</div>
 </body>

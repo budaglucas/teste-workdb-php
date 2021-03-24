@@ -28,7 +28,7 @@
                 <button type="button" class="list-group-item list-group-item-action"><?php echo $user['name']; ?></button>
 			<?php endforeach; ?>
         <div class="text-left">
-            <a class="btn btn-primary" href="http://localhost:8080/teste/hello.php" role="button">Tabela de usuários</a>
+            <a class="btn btn-primary" href="http://localhost:8080/teste-workdb-php/hello.php" role="button">Tabela de usuários</a>
         </div>
 	</div>
 </body>
